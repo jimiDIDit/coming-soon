@@ -4,7 +4,7 @@
   "description": "EWbsite displaying the site is under construction. Meant for temporary deployment",
   "private": true,
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^7.7.0",
     "rxjs": "~6.4.0"
   },
